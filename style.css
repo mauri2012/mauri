@@ -1,0 +1,23 @@
+
+.absoluteText{
+   text-align:right;
+   width:50%;
+   bottom:10%;
+   right:10%;
+}
+.navbg{
+   background-color:rgb(27,55,69); 
+}
+.containerAbsoluto{
+   overflow:auto;
+}
+.sizeBox{
+   width:49%;  
+}  
+.sizeTema{
+   text-align:top;
+   line-height:600%;
+}
+.oscurecedor{
+  filter:brightness(70%);
+}  
